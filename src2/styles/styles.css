@@ -1,0 +1,29 @@
+.margen{
+    display: flex;
+    align-items: center;
+    background-color:rgb(196, 196, 196);
+    margin-bottom: 10px;
+    margin: 3px 700px;
+    height: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.link{
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;  
+}
+
+.link:hover{
+    background-color: grey;
+    text-size-adjust: 10px;  
+}
+
+.inicio{
+    align-content: center;
+    text-align: left;   
+}
+
+
+

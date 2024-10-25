@@ -1,0 +1,11 @@
+.caja{
+    display: block;
+    align-content: center;
+    flex-direction: column;
+    background-color: rgb(222, 226, 220);
+    margin: 400px 700px 0px;
+    height: 150px;
+    width: 450px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
